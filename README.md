@@ -4,8 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miraj0507&label=Profile%20views&color=0e75b6&style=flat" alt="miraj0507" /> </p>
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
+- I'm a pre-final CSE undergrad
+- I've also worked in FULL-STACK development projects using frontend frameworks like **REACT**,backend with **NODE.JS** 
 
 - 📫 How to reach me **miraj052000@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
